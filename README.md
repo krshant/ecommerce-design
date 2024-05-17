@@ -1,3 +1,3 @@
-# Ecommerce page design
+# Estore app
 
-visit here: https://ecommerce-design.000webhostapp.com/
+Visit here: https://ecommerce-design.000webhostapp.com/
